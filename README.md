@@ -36,3 +36,5 @@
 ---
 
 ⭐ *Perfil em construção, assim como minha jornada como desenvolvedora!*
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
