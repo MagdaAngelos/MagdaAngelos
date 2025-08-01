@@ -31,7 +31,7 @@
 
 ### 📬 Contato:
 - ✉️ **E-mail:** magdaangelos@gmail.com  
-- 🌐 **LinkedIn:** *(adicione aqui quando tiver o link)*  
+- 🌐 **LinkedIn:** *(****************)*  
 
 ---
 
